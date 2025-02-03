@@ -52,6 +52,7 @@ Total disk usage
 500G 250G 50%
 ```
 
+https://roadmap.sh/projects/server-stats
 ## Requirements
 
 - `bash`
