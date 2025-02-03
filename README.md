@@ -1,6 +1,7 @@
 # Server Stats Script
 
 This script provides a summary of the server's CPU, memory, and disk usage. It also lists the top 5 processes by CPU and memory usage.
+[url](https://roadmap.sh/projects/server-stats)
 
 ## Usage
 
@@ -51,8 +52,6 @@ TOP 5 processes by MEM usage:
 Total disk usage
 500G 250G 50%
 ```
-
-[url](https://roadmap.sh/projects/server-stats)
 ## Requirements
 
 - `bash`
