@@ -1,5 +1,5 @@
 # Server Stats Script
-[text](https://roadmap.sh/projects/server-stats)
+https://roadmap.sh/projects/server-stats
 
 This script provides a summary of the server's CPU, memory, and disk usage. It also lists the top 5 processes by CPU and memory usage.
 
